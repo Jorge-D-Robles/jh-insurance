@@ -1,2 +1,19 @@
+
+// /* SCSS HEX */
+$black-coffee: #32292fff;
+$magnolia: #f5f0f6ff;
+$burnished-brown: #a37774ff;
+$steel-teal: #607b7dff;
+$steel-blue: #427aa1ff;
+
+$primary:       $burnished-brown;
+$secondary:     $steel-blue;
+$success:       $steel-teal;
+// $info:          $cyan !default;
+// $warning:       $yellow !default;
+// $danger:        $red !default;
+$light:         $magnolia;
+$dark:          $black-coffee;
+
 //IMPORT BOOTSTRAP 5
-@import "../node_modules/bootstrap/scss/bootstrap.scss"
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
